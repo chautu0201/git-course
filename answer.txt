@@ -2,3 +2,4 @@ Git
 Câu 2.
     a. Lệnh cài đặt name: git config –-global user.name “Chau Tu”
        Lệnh cài đặt email: git config –-global user.email "chautu0201@gmail.com"
+       

@@ -1,0 +1,14 @@
+1.
+git init: Khởi tạo git
+git add <file_name>: Thêm 1 file vào vùng staging area
+git add . : Thêm tất cả các file vào vùng staging area
+git commit - m "message" : Tạo 1 commit ghi lại những thay đổi được đưa từ vùng staging area với 1 message cụ thể.
+
+2.
+a. file1, file2, file3 được tạo
+b. khởi tạo git
+c. tạo 1 commit với message là init project
+d. add file1 vào vùng staging area
+e. tạo 1 commit với message add file 1
+f: add thêm file vào vùng staging area
+
