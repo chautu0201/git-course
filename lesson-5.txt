@@ -6,22 +6,23 @@
 
 2. Hãy mô tả cấu trúc html của 1 bảng (table)
      <table>
-     <thead>
-        <tr>
-            <th> </th>
-            <th> </th>
-        </tr>
-     </thead>
-     <tbody>
-        <tr>
-            <td> </td>
-        <tr>
-         <tr>
-            <td> </td>
-        <tr>
-         <tr>
-            <td> </td>
-        <tr>
-     </tbody>
+        <thead>
+            <tr>
+                <th> </th>
+                <th> </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> </td>
+            <tr>
+            <tr>
+                <td> </td>
+            <tr>
+            <tr>
+                <td> </td>
+            <tr>
+        </tbody>
+     </table>
  
     
